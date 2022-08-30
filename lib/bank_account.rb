@@ -1,4 +1,4 @@
-class BankAccount
+class BankAccountz
   attr_reader :account_number,
               :secret_code,
               :balance
